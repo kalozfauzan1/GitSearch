@@ -1,4 +1,4 @@
-# Connecta
+# Git Search User
 
 ##Installation
 
